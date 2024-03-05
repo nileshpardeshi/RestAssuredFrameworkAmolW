@@ -1,0 +1,20 @@
+{
+  "employee": {
+    "id": 722,
+    "firstName": "King",
+    "lastName": "Kong",
+    "email": "abc@gmail.com",
+    "jobs": [
+      "Cartoonist",
+      "Painter"
+    ],
+    "favouriteFoods": {
+      "breakfast": "Rice",
+      "lunch": "Biryani",
+      "dinner": [
+        "Chapati",
+        "daal"
+      ]
+    }
+  }
+}
